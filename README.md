@@ -7,7 +7,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6.svg)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3+-38BDF8.svg)](https://tailwindcss.com)
 
-**StegoShield** is a production-quality, modern cybersecurity web application built for secure image steganography, authenticated AES-256-GCM payload encryption, digital image forensics, visual difference mapping, and statistical steganalysis risk scoring.
+**StegoShield** is a production-quality, modern cybersecurity web application built for secure image steganography, authenticated AES-256-GCM payload encryption, digital image forensics, visual difference mapping, and statistical steganalysis risk scoring..
 
 ---
 

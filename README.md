@@ -1,4 +1,4 @@
-# StegoShield — AI-Powered Secure Steganography & Steganalysis Platform.
+# StegoShield — AI-Powered Secure Steganography & Steganalysis Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
